@@ -7,7 +7,6 @@ function App() {
     
     <div className="App">
         <video controls autostart="true" src={Video} type="video/mp4" />
-        <div><p>Imaginarium</p></div>
     </div>
   );
 }
