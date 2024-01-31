@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Imaginarium_video/static/css/main.7b2bd461.css",
+    "main.js": "/Imaginarium_video/static/js/main.d7ed9e16.js",
+    "static/js/787.9c86b36b.chunk.js": "/Imaginarium_video/static/js/787.9c86b36b.chunk.js",
+    "static/media/video.mp4": "/Imaginarium_video/static/media/video.ce73d6616fd803c2778e.mp4",
+    "index.html": "/Imaginarium_video/index.html",
+    "main.7b2bd461.css.map": "/Imaginarium_video/static/css/main.7b2bd461.css.map",
+    "main.d7ed9e16.js.map": "/Imaginarium_video/static/js/main.d7ed9e16.js.map",
+    "787.9c86b36b.chunk.js.map": "/Imaginarium_video/static/js/787.9c86b36b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b2bd461.css",
+    "static/js/main.d7ed9e16.js"
+  ]
+}
